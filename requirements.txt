@@ -13,4 +13,3 @@ openai==0.28.0  # Optional: if using OpenAI for chatbot
 fastapi==0.103.2  # Optional: for REST API backend
 uvicorn==0.23.0  # Optional: for serving the FastAPI app
 setuptools>=67.0  # To address distutils-related issues
-python3-distutils  # Explicitly install distutils
