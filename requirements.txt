@@ -1,0 +1,14 @@
+pandas==1.5.3
+numpy==1.23.5
+scikit-learn==1.2.0
+streamlit==1.25.0
+matplotlib==3.7.2
+seaborn==0.12.2
+shap==0.41.0
+mlflow==2.7.1
+Pillow==10.0.0  # For image processing
+torch==2.0.1    # Optional: for NLP or advanced AI models
+transformers==4.35.0  # Optional: for AI-based claim type mapping
+openai==0.28.0  # Optional: if using OpenAI for chatbot
+fastapi==0.103.2  # Optional: for REST API backend
+uvicorn==0.23.0  # Optional: for serving the FastAPI app
